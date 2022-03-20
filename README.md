@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m currently working as Back-end developer : <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="20"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="20"> 
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20">
